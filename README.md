@@ -10,4 +10,4 @@
 Animated Profile Card UI Design using HTML & CSS! <br>
 Este projeto foi desenvolvido a nível didático, visando o aprimoramento nas respectivas tecnologias.
 
-kjkjlkjlkjlkjlkj
+<h2> Semana de Desenvolvimento</h2>
