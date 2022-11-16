@@ -1,3 +1,12 @@
+<p align="center">
+<img width="460" height="300" src='./assets/pro.png'>
+</p>
+
+
 # Profile-card
-<h1>Animated Profile Card UI Design using HTML & CSS<h1>
+
+
+##Description
+Animated Profile Card UI Design using HTML & CSS!
+Este projeto foi desenvolvido a nível didático, visando o aprimoramento nas respectivas tecnologias.
 
